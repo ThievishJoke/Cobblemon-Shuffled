@@ -16,9 +16,8 @@
     ],
     "aspects": [],
     "abilities": [
-      "defeatist",
       "sapsipper",
-      "h:defeatist"
+      "h:infiltrator"
     ],
     "eggGroups": [
       "flying",
