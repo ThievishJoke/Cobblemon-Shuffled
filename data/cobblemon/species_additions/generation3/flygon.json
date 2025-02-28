@@ -1,0 +1,16 @@
+{
+    "target": "cobblemon:flygon",
+    "abilities": [
+        "levitate",
+        "compoundeyes",
+        "h:tintedlens"
+    ],
+    "baseStats": {
+        "hp": 80,
+        "attack": 100,
+        "defence": 80,
+        "special_attack": 70,
+        "special_defence": 80,
+        "speed": 120
+    }
+}

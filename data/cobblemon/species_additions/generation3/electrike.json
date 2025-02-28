@@ -1,0 +1,16 @@
+{
+    "target": "cobblemon:electrike",
+    "abilities": [
+        "minus",
+        "lightningrod",
+        "h:competitive"
+    ],
+    "baseStats": {
+        "hp": 50,
+        "attack": 45,
+        "defence": 40,
+        "special_attack": 65,
+        "special_defence": 40,
+        "speed": 65
+    }
+}

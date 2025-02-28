@@ -1,0 +1,13 @@
+{
+ "target": "cobblemon:zangoose",
+ "baseStats": {
+    "defence": 70,
+	"special_defence": 70,
+	"speed": 100
+  },
+ "abilities": [
+    "immunity",
+    "toughclaws",
+    "h:toxicboost"
+  ]
+}

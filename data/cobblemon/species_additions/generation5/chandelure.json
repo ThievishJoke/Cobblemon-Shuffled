@@ -1,0 +1,8 @@
+{
+    "target": "cobblemon:chandelure",
+    "abilities": [
+        "flashfire",
+        "infiltrator",
+        "h:shadowtag"
+    ]
+}

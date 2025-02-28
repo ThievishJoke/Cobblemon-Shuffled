@@ -1,0 +1,7 @@
+{
+    "target": "cobblemon:golbat",
+    "abilities": [
+        "infiltrator",
+        "h:sniper"
+    ]
+}

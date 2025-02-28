@@ -1,0 +1,15 @@
+{
+    "target": "cobblemon:crobat",
+    "abilities": [
+        "infiltrator",
+        "h:sniper"
+    ],
+    "baseStats": {
+    "hp": 85,
+    "attack": 90,
+    "defence": 80,
+    "special_attack": 90,
+    "special_defence": 80,
+    "speed": 130
+    }
+}

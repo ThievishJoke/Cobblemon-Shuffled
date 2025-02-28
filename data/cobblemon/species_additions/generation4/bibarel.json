@@ -1,0 +1,11 @@
+{
+    "target": "cobblemon:bibarel",
+    "baseStats": {
+    "hp": 79,
+    "attack": 85,
+    "defence": 80,
+    "special_attack": 55,
+    "special_defence": 80,
+    "speed": 50
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "target": "cobblemon:glaceon",
+    "primaryType": "electric",
+    "secondaryType": "dark",
+    "baseStats": {
+        "hp": 80,
+        "attack": 120,
+        "defence": 79,
+        "special_attack": 75,
+        "special_defence": 79,
+        "speed": 90
+      }
+    
+}
