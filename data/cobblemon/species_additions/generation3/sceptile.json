@@ -1,15 +1,15 @@
 {
- "target": "cobblemon:sceptile",
- "primaryType": "grass",
- "secondaryType": "dragon",
- "baseStats": {
+  "target": "cobblemon:sceptile",
+  "primaryType": "grass",
+  "secondaryType": "dragon",
+  "baseStats": {
     "attack": 105,
     "special_attack": 85,
-	"speed": 90
+    "speed": 90
   },
   "moves": [
     "1:breakingswipe",
-	"1:absorb",
+    "1:absorb",
     "1:dualchop",
     "1:energyball",
     "1:falseswipe",
@@ -34,10 +34,10 @@
     "42:screech",
     "49:endeavor",
     "56:leafstorm",
-	"69:dualchop",
-	"tm:fakeout",
-	"tm:scaleshot",
-	"tm:dracobarrage",
+    "69:dualchop",
+    "tm:fakeout",
+    "tm:scaleshot",
+    "tm:dracobarrage",
     "tm:acrobatics",
     "tm:aerialace",
     "tm:agility",

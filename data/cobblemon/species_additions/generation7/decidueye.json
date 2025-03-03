@@ -1,15 +1,15 @@
 {
-    "target": "cobblemon:decidueye",
-    "abilities": [
-        "overgrow",
-        "h:tintedlens"
-    ],
-    "baseStats": {
-        "hp": 78,
-        "attack": 107,
-        "defence": 75,
-        "special_attack": 95,
-        "special_defence": 85,
-        "speed": 95
-    }
+  "target": "cobblemon:decidueye",
+  "abilities": [
+    "overgrow",
+    "h:tintedlens"
+  ],
+  "baseStats": {
+    "hp": 78,
+    "attack": 107,
+    "defence": 75,
+    "special_attack": 95,
+    "special_defence": 85,
+    "speed": 95
+  }
 }

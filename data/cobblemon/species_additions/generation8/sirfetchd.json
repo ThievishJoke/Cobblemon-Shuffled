@@ -1,6 +1,6 @@
 {
- "target": "cobblemon:sirfetchd",
- "baseStats": {
+  "target": "cobblemon:sirfetchd",
+  "baseStats": {
     "hp": 82
   },
   "moves": [
@@ -22,7 +22,7 @@
     "60:finalgambit",
     "65:bravebird",
     "70:meteorassault",
-	"73:sacredsword",
+    "73:sacredsword",
     "egg:counter",
     "egg:covet",
     "egg:curse",
@@ -34,10 +34,10 @@
     "egg:quickguard",
     "egg:simplebeam",
     "egg:skyattack",
-	"tm:cut",
-	"tm:roost",
-	"tm:drillrun",
-	"tm:nightslash",
+    "tm:cut",
+    "tm:roost",
+    "tm:drillrun",
+    "tm:nightslash",
     "tm:assurance",
     "tm:bodyslam",
     "tm:bravebird",

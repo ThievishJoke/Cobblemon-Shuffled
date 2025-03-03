@@ -1,11 +1,11 @@
 {
- "target": "cobblemon:zangoose",
- "baseStats": {
+  "target": "cobblemon:zangoose",
+  "baseStats": {
     "defence": 70,
-	"special_defence": 70,
-	"speed": 100
+    "special_defence": 70,
+    "speed": 100
   },
- "abilities": [
+  "abilities": [
     "immunity",
     "toughclaws",
     "h:toxicboost"

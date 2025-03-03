@@ -1,8 +1,8 @@
 {
-    "target": "cobblemon:feraligatr",
-    "abilities": [
-        "torrent",
-        "sheerforce",
-        "h:strongjaw"
-    ]
+  "target": "cobblemon:feraligatr",
+  "abilities": [
+    "torrent",
+    "sheerforce",
+    "h:strongjaw"
+  ]
 }

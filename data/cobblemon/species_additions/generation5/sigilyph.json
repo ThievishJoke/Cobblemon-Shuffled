@@ -1,17 +1,17 @@
 {
- "target": "cobblemon:sigilyph",
- "baseStats": {
-	"special_attack": 113,
-	"speed": 107
+  "target": "cobblemon:sigilyph",
+  "baseStats": {
+    "special_attack": 113,
+    "speed": 107
   },
-"moves": [
+  "moves": [
     "1:gust",
     "1:miracleeye",
     "1:psywave",
     "1:synchronoise",
     "1:mirrormove",
     "1:confusion",
-	"1:esperwing:",
+    "1:esperwing:",
     "5:gravity",
     "10:hypnosis",
     "15:aircutter",
@@ -28,7 +28,7 @@
     "egg:ancientpower",
     "egg:psychoshift",
     "egg:roost",
-	"tm:hurricane",
+    "tm:hurricane",
     "tm:aerialace",
     "tm:aircutter",
     "tm:airslash",
@@ -129,5 +129,4 @@
     "tutor:trick",
     "tutor:zenheadbutt"
   ]
-
 }

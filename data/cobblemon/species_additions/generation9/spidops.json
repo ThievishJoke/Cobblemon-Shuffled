@@ -1,11 +1,11 @@
 {
-    "target": "cobblemon:spidops",
-    "baseStats": {
-        "hp": 90,
-        "attack": 79,
-        "defence": 102,
-        "special_attack": 52,
-        "special_defence": 96,
-        "speed": 35
-    }
+  "target": "cobblemon:spidops",
+  "baseStats": {
+    "hp": 90,
+    "attack": 79,
+    "defence": 102,
+    "special_attack": 52,
+    "special_defence": 96,
+    "speed": 35
+  }
 }

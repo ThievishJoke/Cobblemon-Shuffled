@@ -1,6 +1,6 @@
 {
- "target": "cobblemon:scrafty",
- "baseStats": {
+  "target": "cobblemon:scrafty",
+  "baseStats": {
     "hp": 85
   },
   "moves": [
@@ -27,7 +27,7 @@
     "egg:fakeout",
     "egg:feintattack",
     "egg:quickguard",
-	"tm:gunkshot",
+    "tm:gunkshot",
     "tm:acidspray",
     "tm:amnesia",
     "tm:assurance",

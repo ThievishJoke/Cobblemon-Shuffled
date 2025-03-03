@@ -1,11 +1,11 @@
 {
- "target": "cobblemon:vaporeon",
- "abilities": [
+  "target": "cobblemon:vaporeon",
+  "abilities": [
     "waterabsorb",
-	"hydration",
+    "hydration",
     "h:drizzle"
   ],
-"moves": [
+  "moves": [
     "0:bubble",
     "1:tailwhip",
     "1:tackle",
@@ -44,7 +44,7 @@
     "egg:tickle",
     "egg:wish",
     "egg:yawn",
-	"tm:followme",
+    "tm:followme",
     "tm:alluringvoice",
     "tm:aquatail",
     "tm:babydolleyes",
@@ -137,5 +137,4 @@
     "tutor:swift",
     "tutor:waterpulse"
   ]
-
 }

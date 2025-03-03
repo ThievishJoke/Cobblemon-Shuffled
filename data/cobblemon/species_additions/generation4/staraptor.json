@@ -1,16 +1,16 @@
 {
- "target": "cobblemon:staraptor",
- "baseStats": {
+  "target": "cobblemon:staraptor",
+  "baseStats": {
     "attack": 110,
     "defence": 75,
-	"special_defence": 65
+    "special_defence": 65
   },
- "abilities": [
+  "abilities": [
     "intimidate",
     "reckless",
     "h:galewings"
   ],
- "moves": [
+  "moves": [
     "1:closecombat",
     "1:growl",
     "1:quickattack",
@@ -25,7 +25,7 @@
     "41:agility",
     "49:bravebird",
     "57:finalgambit",
-	"65:doubleedge",
+    "65:doubleedge",
     "tm:acrobatics",
     "tm:aerialace",
     "tm:agility",

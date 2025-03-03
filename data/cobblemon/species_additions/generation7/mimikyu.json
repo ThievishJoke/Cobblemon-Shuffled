@@ -1,11 +1,11 @@
 {
- "target": "cobblemon:mimikyu",
- "baseStats": {
+  "target": "cobblemon:mimikyu",
+  "baseStats": {
     "attack": 95,
-	"speed": 105
+    "speed": 105
   },
   "moves": [
-	"1:nuzzle",
+    "1:nuzzle",
     "1:astonish",
     "1:copycat",
     "1:scratch",
@@ -22,7 +22,7 @@
     "48:charm",
     "54:playrough",
     "60:painsplit",
-	"70:spectralthief",
+    "70:spectralthief",
     "egg:curse",
     "egg:destinybond",
     "egg:grudge",

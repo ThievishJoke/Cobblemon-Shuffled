@@ -1,6 +1,6 @@
 {
-    "target": "cobblemon:brutebonnet",
-    "moves": [
+  "target": "cobblemon:brutebonnet",
+  "moves": [
     "1:absorb",
     "1:growth",
     "1:astonish",
@@ -75,5 +75,5 @@
     "tutor:suckerpunch",
     "tutor:synthesis",
     "tutor:zenheadbutt"
-    ]
+  ]
 }

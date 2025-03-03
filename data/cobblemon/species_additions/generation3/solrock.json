@@ -1,8 +1,8 @@
 {
- "target": "cobblemon:solrock",
- "baseStats": {
-	"attack": 105,
-	"speed": 90
+  "target": "cobblemon:solrock",
+  "baseStats": {
+    "attack": 105,
+    "speed": 90
   },
   "moves": [
     "1:tackle",
@@ -20,7 +20,7 @@
     "25:cosmicpower",
     "30:psychic",
     "35:stoneedge",
-	"41:photongeyser",
+    "41:photongeyser",
     "45:wonderroom",
     "50:explosion",
     "tm:acrobatics",

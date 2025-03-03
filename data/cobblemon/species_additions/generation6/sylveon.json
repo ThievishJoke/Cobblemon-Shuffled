@@ -1,11 +1,11 @@
 {
- "target": "cobblemon:sylveon",
- "baseStats": {
+  "target": "cobblemon:sylveon",
+  "baseStats": {
     "defence": 75
   },
- "abilities": [
+  "abilities": [
     "cutecharm",
-	  "mistysurge",
+    "mistysurge",
     "h:pixilate"
   ],
   "moves": [
@@ -46,7 +46,7 @@
     "egg:tickle",
     "egg:wish",
     "egg:yawn",
-	"tm:followme",
+    "tm:followme",
     "tm:alluringvoice",
     "tm:babydolleyes",
     "tm:batonpass",

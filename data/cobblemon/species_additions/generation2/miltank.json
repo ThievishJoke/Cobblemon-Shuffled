@@ -1,8 +1,8 @@
 {
- "target": "cobblemon:miltank",
- "baseStats": {
+  "target": "cobblemon:miltank",
+  "baseStats": {
     "defence": 85,
-	"special_defence": 80
+    "special_defence": 80
   },
   "moves": [
     "1:tackle",
@@ -32,7 +32,7 @@
     "egg:present",
     "egg:punishment",
     "egg:seismictoss",
-	"tm:rapidspin",
+    "tm:rapidspin",
     "tm:afteryou",
     "tm:belch",
     "tm:bide",

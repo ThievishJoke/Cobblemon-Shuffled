@@ -1,16 +1,16 @@
 {
-    "target": "cobblemon:crustle",
-    "ablities": [
-        "sturdy",
-        "shellarmor",
-        "h:sandrush"
-    ],
-    "baseStats": {
-        "hp": 85,
-        "attack": 105,
-        "defence": 125,
-        "special_attack": 65,
-        "special_defence": 75,
-        "speed": 55
-    }
+  "target": "cobblemon:crustle",
+  "ablities": [
+    "sturdy",
+    "shellarmor",
+    "h:sandrush"
+  ],
+  "baseStats": {
+    "hp": 85,
+    "attack": 105,
+    "defence": 125,
+    "special_attack": 65,
+    "special_defence": 75,
+    "speed": 55
+  }
 }

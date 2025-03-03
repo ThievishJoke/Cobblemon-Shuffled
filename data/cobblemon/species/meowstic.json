@@ -77,7 +77,7 @@
     "egg:barrier",
     "egg:tickle",
     "egg:yawn",
-	"tm:mysticalfire",
+    "tm:mysticalfire",
     "tm:alluringvoice",
     "tm:allyswitch",
     "tm:batonpass",

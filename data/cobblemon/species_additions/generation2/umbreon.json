@@ -1,6 +1,6 @@
 {
- "target": "cobblemon:umbreon",
- "baseStats": {
+  "target": "cobblemon:umbreon",
+  "baseStats": {
     "hp": 105
   },
   "moves": [
@@ -26,7 +26,7 @@
     "15:babydolleyes",
     "20:confuseray",
     "25:assurance",
-	"25:suckerpunch",
+    "25:suckerpunch",
     "30:moonlight",
     "35:guardswap",
     "40:darkpulse",
@@ -44,9 +44,9 @@
     "egg:tickle",
     "egg:wish",
     "egg:yawn",
-	"tm:knockoff",
-	"tm:calmmind",
-	"tm:followme",
+    "tm:knockoff",
+    "tm:calmmind",
+    "tm:followme",
     "tm:alluringvoice",
     "tm:assurance",
     "tm:babydolleyes",

@@ -5,7 +5,7 @@
   "primaryType": "ground",
   "abilities": [
     "sandveil",
-	"sandrush",
+    "sandrush",
     "h:sharpness"
   ],
   "drops": {
@@ -50,7 +50,7 @@
       "secondaryType": "steel",
       "abilities": [
         "snowcloak",
-		"slushrush",
+        "slushrush",
         "h:icescales"
       ],
       "baseStats": {

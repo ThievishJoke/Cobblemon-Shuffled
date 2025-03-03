@@ -1,16 +1,16 @@
 {
-    "target": "cobblemon:houndoom",
-    "abilities": [
-        "earlybird",
-        "flashfire",
-        "h:solarpower"
-    ],
-    "baseStats": {
-        "hp": 75,
-        "attack": 60,
-        "defence": 90,
-        "special_attack": 110,
-        "special_defence": 90,
-        "speed": 95
-    }
+  "target": "cobblemon:houndoom",
+  "abilities": [
+    "earlybird",
+    "flashfire",
+    "h:solarpower"
+  ],
+  "baseStats": {
+    "hp": 75,
+    "attack": 60,
+    "defence": 90,
+    "special_attack": 110,
+    "special_defence": 90,
+    "speed": 95
+  }
 }

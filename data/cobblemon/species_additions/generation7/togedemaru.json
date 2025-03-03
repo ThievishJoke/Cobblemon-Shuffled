@@ -1,9 +1,9 @@
 {
- "target": "cobblemon:togedemaru",
- "baseStats": {
+  "target": "cobblemon:togedemaru",
+  "baseStats": {
     "attack": 108
   },
- "abilities": [
+  "abilities": [
     "ironbarbs",
     "motordrive",
     "h:sturdy"

@@ -17,7 +17,7 @@
   "aspects": [],
   "abilities": [
     "torrent",
-	"shellarmor",
+    "shellarmor",
     "h:sharpness"
   ],
   "eggGroups": [
@@ -94,11 +94,11 @@
     "39:encore",
     "46:aquatail",
     "51:retaliate",
-	"56:sacredsword",
+    "56:sacredsword",
     "58:swordsdance",
     "63:hydropump",
-	"70:behemothblade",
-	"80:shellsmash",
+    "70:behemothblade",
+    "80:shellsmash",
     "egg:airslash",
     "egg:aquacutter",
     "egg:copycat",
@@ -108,7 +108,7 @@
     "egg:sacredsword",
     "egg:screech",
     "egg:trumpcard",
-	"tm:tachyoncutter",
+    "tm:tachyoncutter",
     "tm:aerialace",
     "tm:airslash",
     "tm:aquatail",

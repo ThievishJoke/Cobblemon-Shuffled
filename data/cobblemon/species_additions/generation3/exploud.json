@@ -1,16 +1,16 @@
 {
-    "target": "cobblemon:exploud",
-    "abilities": [
-        "soundproof",
-        "scrappy",
-        "h:punkrock"
-    ],
-        "baseStats": {
-        "hp": 104,
-        "attack": 81,
-        "defence": 63,
-        "special_attack": 91,
-        "special_defence": 73,
-        "speed": 73
-    }
+  "target": "cobblemon:exploud",
+  "abilities": [
+    "soundproof",
+    "scrappy",
+    "h:punkrock"
+  ],
+  "baseStats": {
+    "hp": 104,
+    "attack": 81,
+    "defence": 63,
+    "special_attack": 91,
+    "special_defence": 73,
+    "speed": 73
+  }
 }

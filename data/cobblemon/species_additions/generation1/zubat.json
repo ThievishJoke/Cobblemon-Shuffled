@@ -1,7 +1,7 @@
 {
-    "target": "cobblemon:zubat",
-    "abilities": [
-        "infiltrator",
-        "h:sniper"
-    ]
+  "target": "cobblemon:zubat",
+  "abilities": [
+    "infiltrator",
+    "h:sniper"
+  ]
 }

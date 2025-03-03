@@ -1,16 +1,16 @@
 {
-    "target": "cobblemon:beartic",
-    "primaryType": "ice",
-    "secondaryType": "fighting",
-    "baseStats": {
+  "target": "cobblemon:beartic",
+  "primaryType": "ice",
+  "secondaryType": "fighting",
+  "baseStats": {
     "hp": 95,
     "attack": 140,
     "defence": 80,
     "special_attack": 70,
     "special_defence": 80,
     "speed": 50
-    },
-    "moves": [
+  },
+  "moves": [
     "1:aquajet",
     "1:powdersnow",
     "1:growl",
@@ -144,5 +144,5 @@
     "tutor:throatchop",
     "tutor:waterpulse",
     "tutor:xscissor"
-    ]
+  ]
 }

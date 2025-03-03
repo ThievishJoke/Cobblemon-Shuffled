@@ -1,16 +1,16 @@
 {
-    "target": "cobblemon:manectric",
-    "abilities": [
-        "minus",
-        "lightningrod",
-        "h:competitive"
-    ],
-    "baseStats": {
-        "hp": 80,
-        "attack": 75,
-        "defence": 60,
-        "special_attack": 115,
-        "special_defence": 60,
-        "speed": 105
-    }
+  "target": "cobblemon:manectric",
+  "abilities": [
+    "minus",
+    "lightningrod",
+    "h:competitive"
+  ],
+  "baseStats": {
+    "hp": 80,
+    "attack": 75,
+    "defence": 60,
+    "special_attack": 115,
+    "special_defence": 60,
+    "speed": 105
+  }
 }

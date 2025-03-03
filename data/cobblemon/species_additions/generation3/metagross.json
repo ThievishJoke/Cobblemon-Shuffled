@@ -1,6 +1,6 @@
 {
- "target": "cobblemon:metagross",
- "abilities": [
+  "target": "cobblemon:metagross",
+  "abilities": [
     "clearbody",
     "lightmetal",
     "h:toughclaws"
@@ -25,7 +25,7 @@
     "62:irondefense",
     "72:agility",
     "82:hyperbeam",
-	"tm:psyshieldbash",
+    "tm:psyshieldbash",
     "tm:aerialace",
     "tm:agility",
     "tm:allyswitch",

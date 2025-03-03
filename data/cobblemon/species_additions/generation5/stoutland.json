@@ -1,6 +1,6 @@
 {
- "target": "cobblemon:stoutland",
- "baseStats": {
+  "target": "cobblemon:stoutland",
+  "baseStats": {
     "hp": 95,
     "attack": 125
   }

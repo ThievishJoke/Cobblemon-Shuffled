@@ -1,8 +1,8 @@
 {
-    "target": "cobblemon:cosmog",
-    "moves": [
-        "1:splash",
-        "1:teleport",
-        "20:tackle"
-    ]
+  "target": "cobblemon:cosmog",
+  "moves": [
+    "1:splash",
+    "1:teleport",
+    "20:tackle"
+  ]
 }
