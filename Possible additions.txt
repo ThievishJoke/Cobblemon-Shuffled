@@ -1,0 +1,8 @@
+Absol Signiture
+"Calamity Blade"
+    Type: Dark
+    Category: Physical
+    Power: 100
+    Effect: Always crits (like Frost Breath/Storm Throw) or ignores Protect/Detect.
+    Sharpness boosts it to 150 BP, and if it always crits, it ignores Defense boosts too.
+    Flavor text: "Absol unleashes a slash destined to bring calamity."
