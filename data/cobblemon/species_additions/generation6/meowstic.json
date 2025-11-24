@@ -1,27 +1,6 @@
 {
-  "nationalPokedexNumber": 678,
-  "name": "Meowstic",
-  "primaryType": "psychic",
-  "maleRatio": 1,
-  "height": 6,
-  "weight": 85,
-  "pokedex": [
-    "cobblemon.species.meowstic.desc"
-  ],
-  "labels": [
-    "gen6"
-  ],
-  "aspects": [
-    "male"
-  ],
-  "abilities": [
-    "keeneye",
-    "infiltrator",
-    "h:prankster"
-  ],
-  "eggGroups": [
-    "field"
-  ],
+  "target": "cobblemon:meowstic",
+  "implemented": true,
   "baseStats": {
     "hp": 74,
     "attack": 48,
@@ -29,28 +8,6 @@
     "special_attack": 120,
     "special_defence": 81,
     "speed": 104
-  },
-  "evYield": {
-    "hp": 0,
-    "attack": 0,
-    "defence": 0,
-    "special_attack": 0,
-    "special_defence": 0,
-    "speed": 2
-  },
-  "baseExperienceYield": 163,
-  "experienceGroup": "medium_fast",
-  "catchRate": 75,
-  "eggCycles": 20,
-  "baseFriendship": 50,
-  "drops": {
-    "amount": 1,
-    "entries": [
-      {
-        "item": "cobblemon:colbur_berry",
-        "percentage": 5.0
-      }
-    ]
   },
   "moves": [
     "1:meanlook",
@@ -70,14 +27,15 @@
     "34:reflect",
     "39:psyshock",
     "44:imprison",
+    "46:healblock",
     "49:quickguard",
+    "53:wish",
     "54:psychic",
     "59:mistyterrain",
     "egg:assist",
     "egg:barrier",
     "egg:tickle",
     "egg:yawn",
-    "tm:mysticalfire",
     "tm:alluringvoice",
     "tm:allyswitch",
     "tm:batonpass",
@@ -181,31 +139,22 @@
     "tutor:thunderbolt",
     "tutor:trick",
     "tutor:wonderroom",
-    "tutor:zenheadbutt"
+    "tutor:zenheadbutt",
+    "legacy:attract",
+    "legacy:confide",
+    "legacy:doubleteam",
+    "legacy:frustration",
+    "legacy:hiddenpower",
+    "legacy:return",
+    "legacy:round",
+    "legacy:secretpower",
+    "legacy:snore",
+    "legacy:swagger",
+    "legacy:toxic"
   ],
-  "preEvolution": "espurr",
-  "evolutions": [],
   "forms": [
     {
       "name": "F",
-      "primaryType": "psychic",
-      "maleRatio": 0,
-      "height": 6,
-      "weight": 85,
-      "pokedex": [
-        "cobblemon.species.meowstic-f.desc"
-      ],
-      "labels": [
-        "gen6"
-      ],
-      "aspects": [
-        "female"
-      ],
-      "abilities": [
-        "keeneye",
-        "infiltrator",
-        "h:competitive"
-      ],
       "moves": [
         "1:mefirst",
         "1:magicalleaf",
@@ -302,6 +251,7 @@
         "tm:wonderroom",
         "tm:workup",
         "tm:zenheadbutt",
+        "tm:earthpower",
         "tutor:allyswitch",
         "tutor:calmmind",
         "tutor:chargebeam",
@@ -335,11 +285,19 @@
         "tutor:thunderbolt",
         "tutor:trick",
         "tutor:wonderroom",
-        "tutor:zenheadbutt"
-      ],
-      "preEvolution": "espurr",
-      "evolutions": [],
-      "battleOnly": false
+        "tutor:zenheadbutt",
+        "legacy:attract",
+        "legacy:confide",
+        "legacy:doubleteam",
+        "legacy:frustration",
+        "legacy:hiddenpower",
+        "legacy:return",
+        "legacy:round",
+        "legacy:secretpower",
+        "legacy:snore",
+        "legacy:swagger",
+        "legacy:toxic"
+      ]
     }
   ]
 }

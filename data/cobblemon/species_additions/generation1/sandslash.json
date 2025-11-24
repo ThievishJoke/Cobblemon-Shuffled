@@ -1,0 +1,35 @@
+{
+  "target": "cobblemon:sandslash",
+  "implemented": true,
+  "abilities": [
+    "sandveil",
+    "sandrush",
+    "h:sharpness"
+  ],
+  "baseStats": {
+    "hp": 75,
+    "attack": 110,
+    "defence": 120,
+    "special_attack": 25,
+    "special_defence": 65,
+    "speed": 65
+  },
+  "forms": [
+    {
+      "name": "Alola",
+      "abilities": [
+        "snowcloak",
+        "slushrush",
+        "h:icescales"
+      ],
+      "baseStats": {
+        "hp": 75,
+        "attack": 110,
+        "defence": 120,
+        "special_attack": 25,
+        "special_defence": 65,
+        "speed": 65
+      }
+    } 
+  ]
+}

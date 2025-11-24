@@ -1,0 +1,12 @@
+{
+  "target": "cobblemon:ponyta",
+  "implemented": true,
+  "baseStats": {
+    "hp": 50,
+    "attack": 85,
+    "defence": 55,
+    "special_attack": 65,
+    "special_defence": 65,
+    "speed": 95
+  }
+}

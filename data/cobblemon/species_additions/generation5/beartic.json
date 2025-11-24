@@ -3,12 +3,7 @@
   "primaryType": "ice",
   "secondaryType": "fighting",
   "baseStats": {
-    "hp": 95,
-    "attack": 140,
-    "defence": 80,
-    "special_attack": 70,
-    "special_defence": 80,
-    "speed": 50
+    "attack": 140
   },
   "moves": [
     "1:aquajet",
@@ -36,7 +31,6 @@
     "egg:focuspunch",
     "egg:nightslash",
     "egg:yawn",
-    "tm:closecombat",
     "tm:aerialace",
     "tm:assurance",
     "tm:avalanche",
@@ -116,6 +110,7 @@
     "tm:trailblaze",
     "tm:waterpulse",
     "tm:xscissor",
+    "tm:closecombat",
     "tutor:aerialace",
     "tutor:bulkup",
     "tutor:bulldoze",
@@ -143,6 +138,16 @@
     "tutor:superpower",
     "tutor:throatchop",
     "tutor:waterpulse",
-    "tutor:xscissor"
+    "tutor:xscissor",
+    "legacy:attract",
+    "legacy:confide",
+    "legacy:doubleteam",
+    "legacy:frustration",
+    "legacy:hiddenpower",
+    "legacy:return",
+    "legacy:round",
+    "legacy:secretpower",
+    "legacy:snore",
+    "legacy:toxic"
   ]
 }

@@ -1,0 +1,12 @@
+{
+  "target": "cobblemon:mrmime",
+  "implemented": true,
+  "baseStats": {
+    "hp": 65,
+    "attack": 45,
+    "defence": 65,
+    "special_attack": 100,
+    "special_defence": 120,
+    "speed": 90
+  }
+}

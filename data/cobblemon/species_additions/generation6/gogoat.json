@@ -1,5 +1,5 @@
 {
-  "target": "cobblemon:beedrill",
+  "target": "cobblemon:gogoat",
   "baseStats": {
     "hp": 123,
     "attack": 100,
@@ -115,6 +115,18 @@
     "tutor:throatchop",
     "tutor:wildcharge",
     "tutor:worryseed",
-    "tutor:zenheadbutt"
+    "tutor:zenheadbutt",
+    "legacy:attract",
+    "legacy:bounce",
+    "legacy:confide",
+    "legacy:doubleteam",
+    "legacy:frustration",
+    "legacy:hiddenpower",
+    "legacy:return",
+    "legacy:round",
+    "legacy:secretpower",
+    "legacy:snore",
+    "legacy:swagger",
+    "legacy:toxic"
   ]
 }

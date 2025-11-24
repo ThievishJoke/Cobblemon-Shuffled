@@ -1,88 +1,7 @@
-Gen 1 
+# Gen 2
 
-Arbok 
-  Typing:
-    Poison => Poison/Dark
-  H Ability: 
-  Unnerve => Strong Jaw
+## Delibird
 
-  Base Stats:
-    HP: 60 => 75
-    Def: 69 => 75
-
-Beedrill
-  Base Stats:
-    Atk: 90 => 100
-    Def: 40 => 30
-    Sp. Def: 80 => 20
-    Speed: 75 => 135
-
-Flareon
-  Ability:
-    Guts
-    (H) Drought
-
-  Base Stats:
-    Def: 60 => 70
-    Sp. Atk: 95 => 65
-    Sp. Def: 110 => 400
-    Speed: 65 => 95
-
-  Moves:
-    Gained:
-      Follow Me (TM)
-
-Zubat/Golbat/Crobat
-  Ability:
-    Inner Focus => Infiltrator
-    (H) Infiltrator => Sniper
-
-  Base Stats (Crobat Only)
-    Sp. Atk: 70 => 90
-
-Jolteon
-  Ability:
-    2nd: none => Quickfeet
-    (H) Quick Feet => Electric Surge
-
-  Moves
-    Gained:
-      Follow Me (TM)
-      
-Lapras
-  Typing:
-    Water/Ice => Water/Dragon
-
-  Moves:
-    Gained:
-      Dragon Pulse (lvl 50)
-      Boomburst (lvl 60)
-      Dragon Hammer (lvl 70)
-      Scald (TM)
-      Outrage (TM)
-      
-Persian
-  Base Stats:
-    Atk: 70 => 80
-    Sp. Atk: 65 => 95
-
-  Moves:
-    Gained:
-      Surf (TM)
-      Dazzling Gleam (TM)
-      
- Vaporeon
-    Ability:
-      2nd none => Hydration
-      (H) Hydration => Drizzle
-
-    Moves:
-      Gained:
-        Follow me (TM)
-        
-Gen 2
-
-  Delibird
     Base Stats:
       Atk: 55 => 100
       Def: 45 => 60
@@ -93,7 +12,8 @@ Gen 2
       Gained:
         Extreme Speed (lvl 60)
 
-  Espeon
+## Espeon
+
     Ability:
       2nd none => Psychic Surge
 
@@ -104,12 +24,14 @@ Gen 2
       Gained:
         Follow Me (TM)
 
-  Feraligatr
+## Feraligatr
+
     Ability:
       2nd none => Sheer Force
       (H) Sheer Force => Strong Jaw
 
-  Houndoom
+## Houndoom
+
     Ability:
       (H) Unnerve => Solar Power
 
@@ -118,7 +40,8 @@ Gen 2
       Def: 50 => 90
       Sp. Def: 80 => 90
 
-  Mantine
+## Mantine
+
     Ability
       (H) Water Veil => Regenerator
 
@@ -126,7 +49,8 @@ Gen 2
       HP: 85 => 95
       Speed: 70 => 80
 
-  Meganium
+## Meganium
+
     Typing:
       Grass => Grass/Fairy
 
@@ -139,7 +63,8 @@ Gen 2
         Play Rough (TM)
         Dazzling Gleam (TM)
 
-  Miltank
+## Miltank
+
     Base Stats:
       Def: 80 => 85
       Sp. Def: 40 => 80
@@ -148,7 +73,8 @@ Gen 2
       Gained:
         Rapid Spin (TM)
 
-  Sunflora
+## Sunflora
+
     Typing:
       Grass => Grass/Fire
 
@@ -167,7 +93,8 @@ Gen 2
         Fire Blast (TM)
         Mystical Fire (TM)
         
-  Sunkern (?)
+## Sunkern (?)
+
     Ability:
       (H) Early Bird => Harvest
 
@@ -175,7 +102,8 @@ Gen 2
       Sp. Def: 30 => 50
       Speed: 30 => 45
 
-  Umbereon 
+## Umbereon
+
     Base Stats:
       HP: 95 => 105
 
@@ -185,33 +113,3 @@ Gen 2
         Knock Off (TM)
         Calm Mind (TM)
         Follow Me (TM)
-
-Gen 3
-
- 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-

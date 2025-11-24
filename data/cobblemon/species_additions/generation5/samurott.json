@@ -1,0 +1,39 @@
+{
+  "target": "cobblemon:samurott",
+  "implemented": true,
+  "primaryType": "water",
+  "secondaryType": "steel",
+  "abilities": [
+    "torrent",
+    "shellarmor",
+    "h:sharpness"
+  ],
+  "baseStats": {
+    "hp": 110,
+    "attack": 128,
+    "defence": 85,
+    "special_attack": 85,
+    "special_defence": 70,
+    "speed": 50
+  },
+  "forms": [
+    {
+      "name": "Hisui",
+      "primaryType": "water",
+      "secondaryType": "dark",
+      "abilities": [
+        "torrent",
+        "shellarmor",
+        "h:sharpness"
+      ],
+      "baseStats": {
+        "hp": 90,
+        "attack": 108,
+        "defence": 80,
+        "special_attack": 100,
+        "special_defence": 65,
+        "speed": 85
+      }
+    }
+  ]
+}

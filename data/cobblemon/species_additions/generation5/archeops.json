@@ -25,8 +25,6 @@
     "egg:headsmash",
     "egg:knockoff",
     "egg:switcheroo",
-    "tm:hurricane",
-    "tm:bravebird",
     "tm:acrobatics",
     "tm:aerialace",
     "tm:agility",
@@ -91,6 +89,8 @@
     "tm:uproar",
     "tm:uturn",
     "tm:zenheadbutt",
+    "tm:hurricane",
+    "tm:bravebird",
     "tutor:aerialace",
     "tutor:allyswitch",
     "tutor:ancientpower",
@@ -123,6 +123,16 @@
     "tutor:swift",
     "tutor:tailwind",
     "tutor:uproar",
-    "tutor:zenheadbutt"
+    "tutor:zenheadbutt",
+    "legacy:attract",
+    "legacy:confide",
+    "legacy:frustration",
+    "legacy:hiddenpower",
+    "legacy:return",
+    "legacy:round",
+    "legacy:secretpower",
+    "legacy:snore",
+    "legacy:swagger",
+    "legacy:toxic"
   ]
 }

@@ -35,7 +35,6 @@
     "egg:mefirst",
     "egg:mudsport",
     "egg:quickguard",
-    "tm:knockoff",
     "tm:acrobatics",
     "tm:aerialace",
     "tm:agility",
@@ -118,6 +117,7 @@
     "tm:workup",
     "tm:xscissor",
     "tm:zenheadbutt",
+    "tm:knockoff",
     "tutor:aerialace",
     "tutor:allyswitch",
     "tutor:bounce",
@@ -152,6 +152,18 @@
     "tutor:thunderpunch",
     "tutor:uproar",
     "tutor:xscissor",
-    "tutor:zenheadbutt"
+    "tutor:zenheadbutt",
+    "legacy:attract",
+    "legacy:confide",
+    "legacy:doubleteam",
+    "legacy:frustration",
+    "legacy:hiddenpower",
+    "legacy:return",
+    "legacy:round",
+    "legacy:secretpower",
+    "legacy:snore",
+    "legacy:swagger",
+    "legacy:tailwind",
+    "legacy:toxic"
   ]
 }
