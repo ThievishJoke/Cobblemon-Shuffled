@@ -1,5 +1,6 @@
 {
   "target": "cobblemon:feraligatr",
+  "implemented": true,
   "abilities": [
     "torrent",
     "sheerforce",

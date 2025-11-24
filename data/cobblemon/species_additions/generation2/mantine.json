@@ -1,5 +1,6 @@
 {
   "target": "cobblemon:mantine",
+  "implemented": true,
   "abilities": [
     "swiftswim",
     "waterabsorb",
@@ -7,10 +8,6 @@
   ],
   "baseStats": {
     "hp": 95,
-    "attack": 40,
-    "defence": 70,
-    "special_attack": 80,
-    "special_defence": 140,
     "speed": 80
   }
 }

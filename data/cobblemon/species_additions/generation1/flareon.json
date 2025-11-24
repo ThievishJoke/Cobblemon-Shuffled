@@ -2,16 +2,15 @@
   "target": "cobblemon:flareon",
   "abilities": [
     "flashfire",
-    "guts",
     "h:drought"
   ],
   "baseStats": {
     "hp": 65,
     "attack": 130,
-    "defence": 70,
-    "special_attack": 65,
-    "special_defence": 400,
-    "speed": 95
+    "defence": 64,
+    "special_attack": 53,
+    "special_defence": 116,
+    "speed": 97
   },
   "moves": [
     "1:tailwhip",

@@ -1,115 +1,139 @@
 # Gen 2
 
-## Delibird
+## 154_Meganium
 
-    Base Stats:
-      Atk: 55 => 100
-      Def: 45 => 60
-      Sp. Def: 45 => 100
-      Speed: 75 => 105
+- Type:
+  - Primary: Grass (Unchanged)
+  - Secondary: (+) Fairy
 
-    Moves:
-      Gained:
-        Extreme Speed (lvl 60)
+- H Ability:
+  - Leaf Guard => Triage
 
-## Espeon
+- Moves:
+  - Evo: Draining Kiss
+  - Tm: Play Rough
+  - Tm: Dazzling Gleam
 
-    Ability:
-      2nd none => Psychic Surge
+## 160_Feraligatr
 
-    Base Stats:
-      Def: 60 => 70
+- Abilities:
+  - Synchronize (Unchanged)
+  - (+) Sheer Force
+- H Ability:
+  - Sheer Force => Strong Jaw
 
-    Moves:
-      Gained:
-        Follow Me (TM)
+## 169_Crobat
 
-## Feraligatr
+- Abilities:
+  - Inner Focus => Infiltrator
+  
+- H Ability:
+  - Infiltrator => Sniper
 
-    Ability:
-      2nd none => Sheer Force
-      (H) Sheer Force => Strong Jaw
+- Base Stats
+  - Sp. Atk: 70 => 90
 
-## Houndoom
+## 171_Lanturn (Changes Planned)
 
-    Ability:
-      (H) Unnerve => Solar Power
+## 191_Sunkern
 
-    Base Stats:
-      Atk: 90 => 60
-      Def: 50 => 90
-      Sp. Def: 80 => 90
+- Abilities:
+  - Chlorophyll (Unchanged)
+  - Solarpower (Unchanged)
+- H Ability:
+  - Early Bird => Harvest
 
-## Mantine
+- Base Stats:
+  - Sp. Def: 30 => 50
+  - Speed: 30 => 45
 
-    Ability
-      (H) Water Veil => Regenerator
+## 192_Sunflora
 
-    Base Stats:
-      HP: 85 => 95
-      Speed: 70 => 80
+- Type:
+  - Primary: Grass (Unchanged)
+  - Secondary: (+) Fire
 
-## Meganium
+- Abilities:
+  - Chlorophyll (Unchanged)
+  - Solarpower (Unchanged)
+- H Ability:
+  - Early Bird => Harvest
 
-    Typing:
-      Grass => Grass/Fairy
+- Base Stats:
+  - HP: 75 => 95
+  - Sp. Atk: 105 => 135
+  - Sp. Def: 85 => 110
 
-    Ability
-      (H) Leaf Guard => Triage
+- Moves:
+  - Evo: Flame Burst
+  - lvl 20: Flamethrower
+  - lvl 50: Seed Flare
+  - Lvl 60: Fiery Dance
+  - Tm: Overheat
+  - Tm: Flamethrower
+  - Tm: Fire Blast
+  - Tm: Mystical Fire
 
-    Moves:
-      Gained:
-        Draining Kiss (on Evo)
-        Play Rough (TM)
-        Dazzling Gleam (TM)
+## 196_Espeon
 
-## Miltank
+- Abilities:
+  - Synchronize (Unchanged)
+  - (+) Psychic Surge
+- H Ability:
+  - Magic Bounce (Unchanged)
 
-    Base Stats:
-      Def: 80 => 85
-      Sp. Def: 40 => 80
+- Base Stats:
+  - Def: 60 => 70
 
-    Moves:
-      Gained:
-        Rapid Spin (TM)
+- Moves:
+  - Tm: Follow Me
 
-## Sunflora
+## 197_Umbereon
 
-    Typing:
-      Grass => Grass/Fire
+- Base Stats:
+  - HP: 95 => 105
 
-    Base Stats:
-      HP: 75 => 95
-      Sp. Atk: 105 => 135
-      Speed: 30 => 55
+- Moves:
+  - Lvl 26: Sucker Punch
+  - Tm: Knock Off
+  - Tm: Calm Mind
+  - Tm: Follow Me
 
-    Moves:
-      Gained:
-        Flame Burst (pn Evo)
-        Seed Flare (lvl 50)
-        Fiery Dance (lvl 60)
-        Overheat (TM)
-        Flamethrower (TM)
-        Fire Blast (TM)
-        Mystical Fire (TM)
-        
-## Sunkern (?)
+## 225_Delibird
 
-    Ability:
-      (H) Early Bird => Harvest
+- Base Stats:
+  - Atk: 55 => 100
+  - Def: 45 => 60
+  - Sp. Def: 45 => 100
+  - Speed: 75 => 105
 
-    Base Stats:
-      Sp. Def: 30 => 50
-      Speed: 30 => 45
+- Moves:
+  - Lvl 60: Extreme Speed
 
-## Umbereon
+## 226_Mantine
 
-    Base Stats:
-      HP: 95 => 105
+- H Ability:
+  - Water Veil => Regenerator
 
-    Moves:
-      Gained:
-        Sucker Punch (lvl 25)
-        Knock Off (TM)
-        Calm Mind (TM)
-        Follow Me (TM)
+- Base Stats:
+  - HP: 85 => 95
+  - Speed: 70 => 80
+
+## 229_Houndoom
+
+- H Ability:
+  - Unnerve => Solar Power
+
+- Base Stats:
+  - Atk: 90 => 60
+  - Def: 50 => 90
+  - Sp. Def: 80 => 90
+
+## 241_Miltank
+
+- Base Stats:
+  - Def: 80 => 85
+  - Sp. Def: 40 => 80
+
+- Moves:
+  - Tm: Rapid Spin

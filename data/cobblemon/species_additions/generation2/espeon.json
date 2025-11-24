@@ -1,17 +1,13 @@
 {
   "target": "cobblemon:espeon",
+  "implemented": true,
   "abilities": [
     "synchronize",
     "psychicsurge",
     "h:magicbounce"
   ],
   "baseStats": {
-    "hp": 65,
-    "attack": 65,
-    "defence": 70,
-    "special_attack": 130,
-    "special_defence": 95,
-    "speed": 110
+    "defence": 70
   },
   "moves": [
     "1:tailwhip",
@@ -157,6 +153,25 @@
     "tutor:swift",
     "tutor:telekinesis",
     "tutor:trick",
-    "tutor:zenheadbutt"
+    "tutor:zenheadbutt",
+    "legacy:attract",
+    "legacy:bide",
+    "legacy:confide",
+    "legacy:doubleteam",
+    "legacy:frustration",
+    "legacy:hiddenpower",
+    "legacy:mimic",
+    "legacy:nightmare",
+    "legacy:rage",
+    "legacy:return",
+    "legacy:round",
+    "legacy:secretpower",
+    "legacy:skullbash",
+    "legacy:snore",
+    "legacy:swagger",
+    "legacy:toxic",
+    "legacy:zapcannon",
+    "special:celebrate",
+    "special:sing"
   ]
 }
