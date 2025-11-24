@@ -82,7 +82,6 @@
     Spd: 97 => 107
   
   Moves:
-    Lvl 1: Esperwing
     Tm: Hurricane
 
 ## 567_Archeops

@@ -1,0 +1,40 @@
+{
+  "cobblemon_shuffled.ability.alienate": "Alienate",
+  "cobblemon_shuffled.ability.alienate.desc": "Normal-type moves become Dark-type moves. The power of those moves is boosted a little",
+
+  "cobblemon_shuffled.ability.bombilate": "Bombilate",
+  "cobblemon_shuffled.ability.bombilate.desc": "Normal-type moves become Bug-type moves. The power of those moves is boosted a little",
+
+  "cobblemon_shuffled.ability.contaminate": "Contaminate",
+  "cobblemon_shuffled.ability.contaminate.desc": "Normal-type moves become Poison-type moves. The power of those moves is boosted a little",
+
+  "cobblemon_shuffled.ability.discombobulate": "Discombobulate",
+  "cobblemon_shuffled.ability.discombobulate.desc": "Normal-type moves become Psychic-type moves. The power of those moves is boosted a little",
+
+  "cobblemon_shuffled.ability.excavate": "Excavate",
+  "cobblemon_shuffled.ability.excavate.desc": "Normal-type moves become Ground-type moves. The power of those moves is boosted a little",
+
+  "cobblemon_shuffled.ability.immolate": "Immolate",
+  "cobblemon_shuffled.ability.immolate.desc": "Normal-type moves become Fire-type moves. The power of those moves is boosted a little",
+
+  "cobblemon_shuffled.ability.lapidate": "Lapidate",
+  "cobblemon_shuffled.ability.lapidate.desc": "Normal-type moves become Rock-type moves. The power of those moves is boosted a little",
+
+  "cobblemon_shuffled.ability.liquidate": "Liquidate",
+  "cobblemon_shuffled.ability.liquidate.desc": "Normal-type moves become Water-type moves. The power of those moves is boosted a little",
+
+  "cobblemon_shuffled.ability.photosynthate": "Photosynthate",
+  "cobblemon_shuffled.ability.photosynthate.desc": "Normal-type moves become Grass-type moves. The power of those moves is boosted a little",
+
+  "cobblemon_shuffled.ability.serrate": "Serrate",
+  "cobblemon_shuffled.ability.serrate.desc": "Normal-type moves become Steel-type moves. The power of those moves is boosted a little",
+
+  "cobblemon_shuffled.ability.spectate": "Spectate",
+  "cobblemon_shuffled.ability.spectate.desc": "Normal-type moves become Ghost-type moves. The power of those moves is boosted a little",
+
+  "cobblemon_shuffled.ability.subjugate": "Subjugate",
+  "cobblemon_shuffled.ability.subjugate.desc": "Normal-type moves become Dragon-type moves. The power of those moves is boosted a little",
+
+  "cobblemon_shuffled.ability.vindicate": "Vindicate",
+  "cobblemon_shuffled.ability.vindicate.desc": "Normal-type moves become Fighting-type moves. The power of those moves is boosted a little"
+}
