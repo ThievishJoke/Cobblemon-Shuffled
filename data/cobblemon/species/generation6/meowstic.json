@@ -1,6 +1,28 @@
 {
-  "target": "cobblemon:meowstic",
   "implemented": true,
+  "nationalPokedexNumber": 678,
+  "name": "Meowstic",
+  "primaryType": "psychic",
+  "maleRatio": 1,
+  "height": 6,
+  "weight": 85,
+  "pokedex": [
+    "cobblemon.species.meowstic.desc"
+  ],
+  "labels": [
+    "gen6"
+  ],
+  "aspects": [
+    "male"
+  ],
+  "abilities": [
+    "keeneye",
+    "infiltrator",
+    "h:prankster"
+  ],
+  "eggGroups": [
+    "field"
+  ],
   "baseStats": {
     "hp": 74,
     "attack": 48,
@@ -8,6 +30,66 @@
     "special_attack": 120,
     "special_defence": 81,
     "speed": 104
+  },
+  "evYield": {
+    "hp": 0,
+    "attack": 0,
+    "defence": 0,
+    "special_attack": 0,
+    "special_defence": 0,
+    "speed": 2
+  },
+  "baseExperienceYield": 163,
+  "experienceGroup": "medium_fast",
+  "catchRate": 75,
+  "eggCycles": 20,
+  "baseFriendship": 50,
+  "baseScale": 0.55,
+  "hitbox": {
+    "width": 0.85,
+    "height": 1.5,
+    "fixed": false
+  },
+  "behaviour": {
+    "entityInteract": {
+      "avoidedByCreeper": true,
+      "avoidedByPhantom": true
+    },
+    "herd": {
+      "maxSize": 3,
+      "toleratedLeaders": [
+        {
+          "pokemon": "meowstic",
+          "tier": 1
+        }
+      ]
+    },
+    "moving": {
+      "swim": {
+        "avoidsWater": true
+      }
+    },
+    "combat": {
+      "willDefendSelf": true,
+      "willDefendOwner": true,
+      "willFlee": false
+    },
+    "resting": {
+      "times": [
+        "167-11833,13702-22299"
+      ],
+      "drowsyChance": 0.0021,
+      "rouseChance": 0.0042
+    }
+  },
+  "drops": {
+    "amount": 1,
+    "entries": [
+      {
+        "item": "cobblemon:colbur_berry",
+        "percentage": 5.0
+      }
+    ]
   },
   "moves": [
     "1:meanlook",
@@ -152,9 +234,29 @@
     "legacy:swagger",
     "legacy:toxic"
   ],
+  "preEvolution": "espurr",
+  "evolutions": [],
   "forms": [
     {
       "name": "F",
+      "primaryType": "psychic",
+      "maleRatio": 0,
+      "height": 6,
+      "weight": 85,
+      "pokedex": [
+        "cobblemon.species.meowstic-f.desc"
+      ],
+      "labels": [
+        "gen6"
+      ],
+      "aspects": [
+        "female"
+      ],
+      "abilities": [
+        "keeneye",
+        "infiltrator",
+        "h:competitive"
+      ],
       "moves": [
         "1:mefirst",
         "1:magicalleaf",
@@ -297,7 +399,10 @@
         "legacy:snore",
         "legacy:swagger",
         "legacy:toxic"
-      ]
+      ],
+      "preEvolution": "espurr",
+      "evolutions": [],
+      "battleOnly": false
     }
   ]
 }

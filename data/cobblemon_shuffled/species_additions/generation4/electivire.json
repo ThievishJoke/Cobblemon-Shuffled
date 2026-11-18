@@ -1,9 +1,5 @@
 {
   "target": "cobblemon:electivire",
-  "abilities": [
-    "motordrive",
-    "h:vitalspirit"
-  ],
   "baseStats": {
     "hp": 75,
     "attack": 113,
@@ -147,6 +143,32 @@
     "tutor:thunderbolt",
     "tutor:thunderpunch",
     "tutor:uproar",
-    "tutor:wildcharge"
+    "tutor:wildcharge",
+    "legacy:attract",
+    "legacy:bide",
+    "legacy:captivate",
+    "legacy:confide",
+    "legacy:counter",
+    "legacy:curse",
+    "legacy:detect",
+    "legacy:doubleteam",
+    "legacy:frustration",
+    "legacy:hiddenpower",
+    "legacy:mimic",
+    "legacy:mudslap",
+    "legacy:naturalgift",
+    "legacy:psywave",
+    "legacy:rage",
+    "legacy:return",
+    "legacy:round",
+    "legacy:secretpower",
+    "legacy:seismictoss",
+    "legacy:skullbash",
+    "legacy:snore",
+    "legacy:submission",
+    "legacy:swagger",
+    "legacy:teleport",
+    "legacy:toxic",
+    "legacy:zapcannon"
   ]
 }

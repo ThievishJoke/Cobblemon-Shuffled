@@ -125,6 +125,16 @@
   - Base Stats:
     - Spd: 105 => 125
 
+## 81_Magnemite
+
+- Moves:
+  - Lvl 35: Spin Shock
+
+## 82_Magneton
+
+- Moves:
+  - Lvl 35: Spin Shock
+
 ## 105_Marowak
 
 - **Kanto**

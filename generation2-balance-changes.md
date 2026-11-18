@@ -33,7 +33,13 @@
 - Base Stats
   - Sp. Atk: 70 => 90
 
-## 171_Lanturn (Changes Planned)
+## 171_Lanturn
+
+- Base Stats
+  - Atk: 58 => 50
+  - Def: 58 => 76
+  - Sp. Atk: 76 => 90
+  - Sp. Def: 76 => 95
 
 ## 191_Sunkern
 

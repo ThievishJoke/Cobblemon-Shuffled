@@ -1,0 +1,15 @@
+{
+  "target": "cobblemon:torterra",
+    "baseStats": {
+    "hp": 110,
+    "attack": 124,
+    "defence": 105,
+    "special_attack": 45,
+    "special_defence": 85,
+    "speed": 56
+  },
+  "abilities": [
+    "overgrow",
+    "h:worldroot"
+  ]
+}

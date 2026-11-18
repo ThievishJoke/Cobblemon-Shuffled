@@ -3,7 +3,7 @@
 ## 359_Absol
 
 - Abilities:
-  - Pressure => Justified
+  - Pressure => Alienate
   - Superluck
 - H Ability:
   - Justified => Sharpness

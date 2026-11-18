@@ -5,14 +5,6 @@
     "justified",
     "h:adaptability"
   ],
-  "baseStats": {
-    "hp": 70,
-    "attack": 110,
-    "defence": 70,
-    "special_attack": 115,
-    "special_defence": 70,
-    "speed": 90
-  },
   "moves": [
     "1:quickattack",
     "1:foresight",
@@ -176,6 +168,21 @@
     "tutor:thunderpunch",
     "tutor:vacuumwave",
     "tutor:waterpulse",
-    "tutor:zenheadbutt"
+    "tutor:zenheadbutt",
+    "legacy:attract",
+    "legacy:captivate",
+    "legacy:confide",
+    "legacy:doubleteam",
+    "legacy:frustration",
+    "legacy:hiddenpower",
+    "legacy:mudslap",
+    "legacy:naturalgift",
+    "legacy:return",
+    "legacy:round",
+    "legacy:secretpower",
+    "legacy:snore",
+    "legacy:swagger",
+    "legacy:toxic",
+    "special:aurasphere"
   ]
 }

@@ -1,11 +1,106 @@
 {
-  "target": "cobblemon:vulpix",
   "implemented": true,
+  "nationalPokedexNumber": 38,
+  "name": "Ninetales",
+  "primaryType": "fire",
+  "maleRatio": 0.25,
+  "height": 11,
+  "weight": 199,
+  "pokedex": [
+    "cobblemon.species.ninetales.desc"
+  ],
+  "labels": [
+    "gen1",
+    "kantonian_form"
+  ],
+  "aspects": [],
   "abilities": [
     "flashfire",
     "drought",
     "h:cursedbody"
   ],
+  "eggGroups": [
+    "field"
+  ],
+  "baseStats": {
+    "hp": 73,
+    "attack": 76,
+    "defence": 75,
+    "special_attack": 81,
+    "special_defence": 100,
+    "speed": 100
+  },
+  "evYield": {
+    "hp": 0,
+    "attack": 0,
+    "defence": 0,
+    "special_attack": 0,
+    "special_defence": 1,
+    "speed": 1
+  },
+  "baseExperienceYield": 177,
+  "experienceGroup": "medium_fast",
+  "catchRate": 75,
+  "eggCycles": 20,
+  "baseFriendship": 50,
+  "features": [
+    "alolan"
+  ],
+  "baseScale": 0.7,
+  "hitbox": {
+    "width": 1,
+    "height": 2,
+    "fixed": false
+  },
+  "behaviour": {
+    "resting": {
+      "canSleep": true,
+      "light": "0-4",
+      "times": [
+        "167-11833,13702-22299"
+      ],
+      "drowsyChance": 0.0021,
+      "rouseChance": 0.0042
+    },
+    "herd": {
+      "maxSize": 3,
+      "toleratedLeaders": [
+        {
+          "pokemon": "ninetales alpha",
+          "tier": 1
+        }
+      ]
+    },
+    "moving": {
+      "swim": {
+        "avoidsWater": true,
+        "canSwimInLava": true
+      }
+    },
+    "combat": {
+      "willDefendSelf": true,
+      "willDefendOwner": true,
+      "willFlee": false
+    },
+    "fireImmune": true
+  },
+  "drops": {
+    "amount": 6,
+    "entries": [
+      {
+        "item": "minecraft:sweet_berries",
+        "quantityRange": "2-4"
+      },
+      {
+        "item": "minecraft:charcoal",
+        "percentage": 5
+      },
+      {
+        "item": "cobblemon:rawst_berry",
+        "percentage": 5
+      }
+    ]
+  },
   "moves": [
     "1:nastyplot",
     "1:ember",
@@ -153,14 +248,69 @@
     "legacy:tackle",
     "legacy:toxic"
   ],
+  "preEvolution": "vulpix",
+  "evolutions": [],
   "forms": [
     {
       "name": "Alola",
+      "primaryType": "ice",
+      "secondaryType": "fairy",
+      "maleRatio": 0.25,
+      "height": 11,
+      "weight": 199,
+      "baseScale": 0.65,
+      "hitbox": {
+        "width": 1,
+        "height": 2
+      },
+      "pokedex": [
+        "cobblemon.species.ninetales-alola.desc"
+      ],
+      "labels": [
+        "gen7",
+        "alolan_form"
+      ],
+      "aspects": [
+        "alolan"
+      ],
       "abilities": [
         "snowcloak",
         "snowwarning",
-        "h:Cursedbody"
+        "h:cursedbody"
       ],
+      "baseStats": {
+        "hp": 73,
+        "attack": 67,
+        "defence": 75,
+        "special_attack": 81,
+        "special_defence": 100,
+        "speed": 109
+      },
+      "evYield": {
+        "hp": 0,
+        "attack": 0,
+        "defence": 0,
+        "special_attack": 0,
+        "special_defence": 0,
+        "speed": 2
+      },
+      "drops": {
+        "amount": 7,
+        "entries": [
+          {
+            "item": "minecraft:sweet_berries",
+            "quantityRange": "2-4"
+          },
+          {
+            "item": "minecraft:snowball",
+            "quantityRange": "0-2"
+          },
+          {
+            "item": "cobblemon:babiri_berry",
+            "percentage": 5.0
+          }
+        ]
+      },
       "moves": [
         "1:dazzlinggleam",
         "1:imprison",
@@ -181,6 +331,8 @@
         "1:powdersnow",
         "1:tailwhip",
         "1:disable",
+        "1:freezedry",
+        "60:moonblast",
         "egg:babydolleyes",
         "egg:captivate",
         "egg:disable",
@@ -202,7 +354,6 @@
         "tm:blizzard",
         "tm:bodyslam",
         "tm:calmmind",
-        "tm:captivate",
         "tm:charm",
         "tm:chillingwater",
         "tm:confuseray",
@@ -299,7 +450,38 @@
         "legacy:swagger",
         "legacy:tackle",
         "legacy:toxic"
-      ]
+      ],
+      "preEvolution": "vulpix alolan",
+      "evolutions": [],
+      "battleOnly": false,
+      "behaviour": {
+        "herd": {
+          "maxSize": 3,
+          "toleratedLeaders": [
+            {
+              "pokemon": "ninetales alpha",
+              "tier": 1
+            }
+          ]
+        },
+        "resting": {
+          "times": [
+            "167-11833,13702-22299"
+          ],
+          "drowsyChance": 0.0021,
+          "rouseChance": 0.0042
+        },
+        "moving": {
+          "swim": {
+            "avoidsWater": true
+          }
+        },
+        "combat": {
+          "willDefendSelf": true,
+          "willDefendOwner": true,
+          "willFlee": false
+        }
+      }
     }
   ]
 }

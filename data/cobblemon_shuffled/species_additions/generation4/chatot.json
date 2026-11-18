@@ -1,5 +1,5 @@
 {
-  "target": "cobblemon:beedrill",
+  "target": "cobblemon:chatot",
   "baseStats": {
     "hp": 76,
     "attack": 65,
@@ -86,6 +86,19 @@
     "tutor:sleeptalk",
     "tutor:tailwind",
     "tutor:twister",
-    "tutor:uproar"
+    "tutor:uproar",
+    "legacy:attract",
+    "legacy:captivate",
+    "legacy:doubleteam",
+    "legacy:frustration",
+    "legacy:hiddenpower",
+    "legacy:naturalgift",
+    "legacy:powershift",
+    "legacy:return",
+    "legacy:secretpower",
+    "legacy:snore",
+    "legacy:swagger",
+    "legacy:swift",
+    "legacy:toxic"
   ]
 }
