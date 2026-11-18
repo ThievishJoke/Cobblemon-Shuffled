@@ -38,9 +38,13 @@
   "cobblemon.ability.vindicate": "Vindicate",
   "cobblemon.ability.vindicate.desc": "Normal-type moves become Fighting-type moves. The power of those moves is boosted a little",
 
-  "cobblemon_shuffled.ability.worldroot": "World Root",
-  "cobblemon_shuffled.ability.worldroot.desc": "Restore 1/16 Max health every turn. Cannot be crit",
   "cobblemon.ability.worldroot": "World Root",
   "cobblemon.ability.worldroot.desc": "Restore 1/16 Max health every turn. Cannot be crit",
-  "cobblemon.battle.heal.worldroot": "%1$s was healed by World Root"
+  "cobblemon.battle.heal.worldroot": "%1$s was healed by World Root",
+
+  "cobblemon.move.shockspin": "Shock Spin",
+  "cobblemon.move.shockspin.desc": "The user performs a spin attack that can also eliminate the effects of such moves as Bind, Wrap, and Leech Seed. This also levitates the user using electrically generated magnetism for five turns.",
+  
+  "cobblemon.move.voltcrash": "Volt Crash",
+  "cobblemon.move.voltcrash.desc": "The user evelopes themselves into a ball of electrical energy and runs into the target to inflict damage"
 }
