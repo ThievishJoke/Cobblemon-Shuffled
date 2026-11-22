@@ -177,7 +177,8 @@
   - Hydration => Drizzle
 
 - Moves:
-  - Tm: Follow me
+  - lvl 30: Psych Up
+  - Tm: Play Rough
 
 ## 135_Jolteon
 
@@ -188,7 +189,7 @@
     - Quick Feet => Electric Surge
 
 - Moves
-  - Tm: Follow Me
+  - Tm: Play Rough
 
 ## 136_Flareon
 
@@ -204,15 +205,10 @@
   - Speed: 65 => 97
 
 - Moves:-
-  - Tm: Follow Me
+  - Tm: Play Rough
 
 ## 142_Aerodactyl
 
 - Moves:
   - Lvl 48: Bravebird
   - Lvl 70: Headsmash
-
-## 149_Dragonite
-
-- Moves:
-  - Lvl 70: Dragon Ascent

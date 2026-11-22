@@ -157,7 +157,7 @@
   - Def: 130 => 110
 
 - Moves:
-  - Tm: Follow Me
+  - Tm: Play Rough
   - Tm: Captivate
   - Tm: Leafage
   - Tm: Natural Gift
@@ -177,7 +177,7 @@
   - Speed: 65 => 75
 
 - Moves:
-  - Tm: Follow Me
+  - Tm: Play Rough
   - Tm: Captivate
   - Tm: Natural Gift
 

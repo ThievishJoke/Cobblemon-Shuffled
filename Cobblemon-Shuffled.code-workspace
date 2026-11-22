@@ -8,6 +8,9 @@
 		},
 		{
 			"path": "../cobblemon-showdown"
+		},
+		{
+			"path": "../cobblemon/common/src/main/resources/data/cobblemon"
 		}
 	],
 	"settings": {}

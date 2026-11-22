@@ -58,12 +58,12 @@
   - Hp: 65 => 85
   
 - Moves:
+  - lvl 30: Fakeout
   - Tm: Sand Attack
   - Tm: Gunkshot
   - Tm: Chipaway
   - Tm: Counter
   - Tm: Detect
-  - Tm: Fakeout
   - Tm: Feintattack
   - Tm: Headsmash
   - Tm: High Jump Kick

@@ -1,6 +1,5 @@
 {
   "target": "cobblemon:houndoom",
-  "implemented": true,
   "abilities": [
     "earlybird",
     "flashfire",

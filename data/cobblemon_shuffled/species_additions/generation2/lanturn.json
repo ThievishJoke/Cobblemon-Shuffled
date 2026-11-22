@@ -1,6 +1,5 @@
 {
   "target": "cobblemon:lanturn",
-  "implemented": true,
   "baseStats": {
     "hp": 125,
     "attack": 50,

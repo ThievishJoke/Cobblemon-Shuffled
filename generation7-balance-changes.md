@@ -15,7 +15,7 @@
 ## 777_Togedemaru
 
 - Abilities:
-  - Iron Barbs (Unchanged)
+  - Iron Barbs => Lightning Rod
   - Lightning Rod => Motor Drive
   - H Ability:
     - Sturdy (Unchanged)

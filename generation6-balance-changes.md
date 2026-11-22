@@ -37,7 +37,6 @@
   - H: Pixilate (Unchanged)
   
 - Moves:
-  - Tm: Follow Me
   - Tm: Wish
   - Tm: Yawn
 

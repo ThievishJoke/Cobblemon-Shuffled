@@ -25,7 +25,7 @@
 ## 169_Crobat
 
 - Abilities:
-  - Inner Focus => Infiltrator
+  - Inner Focus (Unchanged)
   
 - H Ability:
   - Infiltrator => Sniper
@@ -92,7 +92,7 @@
   - Def: 60 => 70
 
 - Moves:
-  - Tm: Follow Me
+  - Tm: Play Rough
 
 ## 197_Umbereon
 
@@ -101,9 +101,23 @@
 
 - Moves:
   - Lvl 26: Sucker Punch
+  - Tm: Play Rough
+  - Tm: Wonder Room
   - Tm: Knock Off
   - Tm: Calm Mind
-  - Tm: Follow Me
+
+## 219_Magcargo
+
+- Base Stats:
+  - Hp: 50 => 76
+  - Atk: 50 (Unchanged)
+  - Def: 120 => 130
+  - Sp. Atk: 90 => 115
+  - Sp. Def: 80 (Unchanged)
+  - Speed: 30 (Unchanged)
+
+- Moves:
+  - Lvl 60: Comet Crash
 
 ## 225_Delibird
 
