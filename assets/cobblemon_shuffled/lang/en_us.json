@@ -46,5 +46,9 @@
   "cobblemon.move.shockspin.desc": "The user performs a spin attack that can also eliminate the effects of such moves as Bind, Wrap, and Leech Seed. This also levitates the user using electrically generated magnetism for five turns.",
   
   "cobblemon.move.voltcrash": "Volt Crash",
-  "cobblemon.move.voltcrash.desc": "The user evelopes themselves into a ball of electrical energy and runs into the target to inflict damage"
+  "cobblemon.move.voltcrash.desc": "The user evelopes themselves into a ball of electrical energy and runs into the target to inflict damage",
+
+  "cobblemon.move.cometcrash": "Comet Crash",
+  "cobblemon.move.cometcrash.desc": "Rock missles are summoned from the mountains of earth onto the target. The recoil from this move harshly lowers the user's Sp. Atk stat."
+
 }

@@ -1,65 +1,14 @@
 
-# Cobblemon Shuffled (1.8.4+1.4.1)
+# Cobblemon Shuffled (1.8.4+1.4.2)
 
 ## Ability Changes
 
-**Crobat**:
-
-- Infultrator => Inner focus
-
-Idk why I changed this to begin with. Inner focus makes Crobat a safe lead into fairies with fakeout support in doubles.
-
 ## Learnset Changes
-
-**Dragonite**:
-
-- Removed:
-  - Lvl 70 Dragon Ascent
-
-Pretty explanatory removal
-
-**Jolteon, Flareon, Vaporeon, Umbreon, Espeon, Glaceon, Leafeon, Sylveon**:
-
-- Removed:
-  - TM Follow me
-
-May add this back to some eeveelutions selectively.
-
-- Added:
-  - TM Play Rough
-
-Implementing Learnset Changes in Pokemon champions Patch M-D. Every eeveelution now learns Play Rough
-
-**Umbreon**:
-
-- Added:
-  - TM Wonder Room
-
-**Magcargo**:
-
-- Base Stats:
-  - Hp: 50 => 76
-  - Atk: 50 (Unchanged)
-  - Def: 120 => 130
-  - Sp. Atk: 90 => 115
-  - Sp. Def: 80 (Unchanged)
-  - Speed: 30 (Unchanged)
-
-- Added:
-  - Lvl 60 Comet Crash
 
 ## Move Changes
 
-**GMAX Rosonence**:
-
-- Move Type:
-
-  - Ice => Dragon
-
-Keeps STAB on the move to coincide with Lapras being Water/Dragon instead of Water/Ice
-
 ## Fixes
 
-Mega Scrafty should correctly adopt the hp base stat increase if playing with an addon that adds mega evolution
+Added missing translations for comet crash
 
-Mega Meowstic should correctly adopt the special attack base stat increase if playing with an addon that adds mega evolution
+Fixed misspelled stat name for magcargo, ~~defense~~ => defence, my bad
