@@ -5,7 +5,7 @@ from pathlib import Path
 # Configuration
 
 COBLEMON_VERSION = "1.8.4"
-PACK_VERSION = "1.4.2"
+PACK_VERSION = "1.4.3"
 
 PACK_NAME = f"Cobblemon-Shuffled {COBLEMON_VERSION}+{PACK_VERSION}"
 
@@ -19,7 +19,8 @@ BUILD_ITEMS = [
     "pack.mcmeta",
     "pack.png",
     "README.md",
-    "LICENSE"
+    "LICENSE",
+    "CHANGELOG"
 ]
 
 IGNORE_DIRS = [

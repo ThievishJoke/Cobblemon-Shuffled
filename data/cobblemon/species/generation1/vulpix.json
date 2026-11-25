@@ -254,7 +254,17 @@
     "legacy:tackle",
     "legacy:toxic"
   ],
-  "evolutions": [],
+  "evolutions": [
+    {
+      "id": "vulpix_ninetales",
+      "variant": "item_interact",
+      "result": "ninetales",
+      "consumeHeldItem": false,
+      "learnableMoves": [],
+      "requirements": [],
+      "requiredContext": "cobblemon:fire_stone"
+    }
+  ],
   "forms": [
     {
       "name": "Alola",

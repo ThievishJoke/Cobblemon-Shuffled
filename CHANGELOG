@@ -1,5 +1,5 @@
 
-# Cobblemon Shuffled (1.8.4+1.4.2)
+# Cobblemon Shuffled (1.8.4+1.4.3)
 
 ## Ability Changes
 
@@ -9,6 +9,4 @@
 
 ## Fixes
 
-Added missing translations for comet crash
-
-Fixed misspelled stat name for magcargo, ~~defense~~ => defence, my bad
+Fixed missing evolution data for vulpix kanto
